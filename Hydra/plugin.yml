@@ -1,0 +1,15 @@
+name: HydraAC
+version: 0.2
+author: exslodingdogs
+main: me.exslodingdogs.hydra.HydraAC
+depend: [Atlas]
+
+commands:
+  hydra:
+    description: Opens Hydra's menu
+
+permissions:
+  hydra.alerts:
+    default: op
+  hydra.menu:
+    default: op

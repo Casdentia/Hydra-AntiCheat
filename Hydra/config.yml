@@ -1,0 +1,40 @@
+#Punishable doesnt work yet this will come out in version 0.2
+Checks:
+  SPEED:
+    TypeA:
+      punishable: true
+      Enabled: true
+  NOFALL:
+    TypeA:
+      punishable: true
+      Enabled: true
+    TypeB:
+      punishable: true
+      Enabled: true
+  FLY:
+    TypeA:
+      punishable: true
+      Enabled: true
+  WATERWALK:
+    TypeA:
+      punishable: true
+      Enabled: true
+    TypeB:
+      punishable: true
+      Enabled: true
+  BADMOVE:
+    TypeA:
+      punishable: true
+      Enabled: true
+  AIMBOT:
+    TypeA:
+      punishable: true
+      Enabled: true
+  KILLAURA:
+    TypeA:
+      punishable: true
+      Enabled: true
+  REACH:
+    TypeA:
+      punishable: true
+      Enabled: true    
